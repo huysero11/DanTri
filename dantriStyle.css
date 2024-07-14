@@ -1,0 +1,165 @@
+/* Top */
+
+.top-items-1
+{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.top-items-2-1
+{
+    padding-top: 13px;
+}
+
+.top-items-2-2
+{
+    padding-top: 6.5px;
+}
+
+.top-items-3
+{
+    display: flex;
+    align-items: center;
+}
+
+.top-items-4
+{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+
+
+/* navbar*/
+
+.navbar
+{
+    margin-bottom: 20px;
+}
+
+.nav-bar a
+{
+    font-weight: 600;
+    color: white;
+}
+
+.navbar a:hover 
+{
+    background-color: lightgreen;
+}
+
+/* Body1 */
+.firstBody .firstCol h6, .firstBody .secondCol h3
+{
+    margin-top: 10px;
+}
+
+.firstBody .firstCol img
+{
+    width: 290px;
+}
+
+.firstBody .secondCol img
+{
+    width: 610px;
+}
+
+
+.firstBody .thirdCol img, .firstBody .thirdCol h6
+{
+    height: 92px;
+}
+
+.line
+{
+    height: 1px;
+    background: darkgreen;
+}
+
+
+/* Body 2*/
+.secondBody .firstCol h6 
+{
+    margin-top: 10px;
+}
+
+.secondBody .firstCol img 
+{
+    width: 290px;
+}
+
+.secondBody .secondCol img 
+{
+    width: 180px;
+}
+
+/* Body 3*/
+.thirdBody .half1
+{
+    background-color: rgb(235, 247, 235);
+}
+
+.thirdBody .half1 .tinhay
+{
+    font-weight: 600; 
+    margin-bottom: 0px;
+    align-content: center;
+    padding-left: 20px;
+}
+
+.thirdBody .half1 .col h6
+{
+    margin-top: 10px;
+    color: darkgreen;
+}
+
+.thirdBody .half2 .nav
+{
+    margin-bottom: 10px;
+}
+
+.thirdBody .half1 .col p,  .thirdBody .half1 .col img, .thirdBody .half1 .col h6
+{
+    width: 150px;
+    padding-left: 20px;
+}
+
+.thirdBody .half2 .firstCol img, .thirdBody .half2 .firstCol h6, .thirdBody .half2 .firstCol p 
+{
+    width: 200px; padding-left: 10px;
+}
+
+.thirdBody .half2 .firstCol h6 
+{
+    margin-top: 10px;
+}
+
+.thirdBody .half2 .secondCol p, .thirdBody .half2 .secondCol img 
+{
+    height: 70px;
+}
+
+.thirdBody .half2 .nav .nav-link
+{
+    color: black;
+}
+
+.thirdBody .half2 .nav #thegioi
+{
+    color: darkgreen;
+    font-weight: 600;
+}
+
+/* footer */
+.footer
+{
+    margin-left: 10px;
+}
+
+.footer .dantri 
+{
+    width: 100px;
+    margin-bottom: 10px;
+}
